@@ -1,8 +1,8 @@
 {
   "routes": {
-    "/": {},
-    "/about": {},
-    "/projects": {},
-    "/technologies": {}
+    "/PortFolio": {},
+    "/PortFolio/about": {},
+    "/PortFolio/projects": {},
+    "/PortFolio/technologies": {}
   }
 }

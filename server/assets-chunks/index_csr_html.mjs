@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>PortFolio</title>
-  <base href="/">
+  <base href="/PortFolio/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <style>:root{--body-bg:#f8f9fa;--body-color:#333;--navbar-bg:#f9f9f9;--navbar-color:#333;--btn-bg:#333;--btn-color:#fff;--card-bg:#f3f3f3;--card-text:#333}body{background-color:var(--body-bg);color:var(--body-color);margin:0;font-family:Segoe UI,sans-serif;transition:background-color .3s,color .3s}</style><link rel="stylesheet" href="styles-2MZBH2I3.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-2MZBH2I3.css"></noscript></head>
