@@ -169,3 +169,38 @@ body.dark-theme .hero-contact a.contact-link img {
         font-size: 0.85rem;
     }
 }
+
+/* =========================
+   DOWNLOAD BUTTON
+========================= */
+.hero-download {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-download {
+    padding: 0.75rem 1.75rem;
+    border-radius: 999px;
+    background-color: #007bff;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.3s;
+}
+
+.btn-download:hover {
+    background-color: #007bff;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+    .btn-download {
+        font-size: 0.9rem;
+        padding: 0.65rem 1.5rem;
+    }
+}
